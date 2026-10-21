@@ -70,7 +70,7 @@ The table below catalogs leading commercial and SaaS-hosted game engines. Entrie
 
 ## 📦 Top Open-Source Game Engines (Ranked by Stars)
 
-The following open-source game engines and development runtimes are **strictly sorted descending by GitHub Stars_Counts**. Each badge links directly to that repository's stargazers community page.
+The following open-source game engines and development runtimes are **strictly sorted descending by GitHub_Stars_Counts**. Each badge links directly to that repository's stargazers community page.
 
 ### 1. [Godot Engine](https://github.com/godotengine/godot) [![GitHub_Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)
 - **Primary Languages**: C++, GDScript, C#
