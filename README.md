@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Game-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Game-Engines?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Game-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Game-Engines?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Game-Engines/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Game-Engines?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Game-Engines/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Game-Engines/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -70,81 +70,81 @@ The table below catalogs leading commercial and SaaS-hosted game engines. Entrie
 
 ## 📦 Top Open-Source Game Engines (Ranked by Stars)
 
-The following open-source game engines and development runtimes are **strictly sorted descending by GitHub star counts**. Each badge links directly to that repository's stargazers community page.
+The following open-source game engines and development runtimes are **strictly sorted descending by GitHub Stars_Counts**. Each badge links directly to that repository's stargazers community page.
 
-### 1. [Godot Engine](https://github.com/godotengine/godot) [![GitHub stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)
+### 1. [Godot Engine](https://github.com/godotengine/godot) [![GitHub_Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)
 - **Primary Languages**: C++, GDScript, C#
 - **License**: MIT *(Permissive — zero royalty, zero telemetry, zero vendor lock-in)*
 - **GitHub Repository**: [`godotengine/godot`](https://github.com/godotengine/godot)
 - **Overview**: The reigning champion of open-source game development. Features a dedicated, lightning-fast visual editor, intuitive node-and-scene tree composition, first-class 2D pixel engines, and modern Vulkan-powered 3D rendering. Proven in production by hit titles including *Slay the Spire 2*, *Brotato*, *Dome Keeper*, and *Cassette Beasts*.
 
-### 2. [Bevy](https://github.com/bevyengine/bevy) [![GitHub stars](https://img.shields.io/github/stars/bevyengine/bevy?style=social&color=white)](https://github.com/bevyengine/bevy/stargazers)
+### 2. [Bevy](https://github.com/bevyengine/bevy) [![GitHub_Stars](https://img.shields.io/github/stars/bevyengine/bevy?style=social&color=white)](https://github.com/bevyengine/bevy/stargazers)
 - **Primary Languages**: Rust
 - **License**: MIT / Apache-2.0
 - **GitHub Repository**: [`bevyengine/bevy`](https://github.com/bevyengine/bevy)
 - **Overview**: A refreshingly simple data-driven game engine built from scratch in Rust. Built upon an ultra-fast, ergonomic Entity Component System (ECS), Bevy features modular plugins, a custom render graph, hot reloading, and cross-platform compilation (Windows, macOS, Linux, WebAssembly/WebGPU).
 
-### 3. [Raylib](https://github.com/raysan5/raylib) [![GitHub stars](https://img.shields.io/github/stars/raysan5/raylib?style=social&color=white)](https://github.com/raysan5/raylib/stargazers)
+### 3. [Raylib](https://github.com/raysan5/raylib) [![GitHub_Stars](https://img.shields.io/github/stars/raysan5/raylib?style=social&color=white)](https://github.com/raysan5/raylib/stargazers)
 - **Primary Languages**: C / C++
 - **License**: zlib/libpng
 - **GitHub Repository**: [`raysan5/raylib`](https://github.com/raysan5/raylib)
 - **Overview**: A simple and easy-to-use software library to enjoy videogames programming. Raylib has no heavy visual editor or bloat—pure C code with OpenGL abstraction, immediate-mode style 2D/3D draw APIs, 50+ language bindings (Python, Rust, Go, C#), and exceptional educational adoption.
 
-### 4. [libGDX](https://github.com/libgdx/libgdx) [![GitHub stars](https://img.shields.io/github/stars/libgdx/libgdx?style=social&color=white)](https://github.com/libgdx/libgdx/stargazers)
+### 4. [libGDX](https://github.com/libgdx/libgdx) [![GitHub_Stars](https://img.shields.io/github/stars/libgdx/libgdx?style=social&color=white)](https://github.com/libgdx/libgdx/stargazers)
 - **Primary Languages**: Java, Kotlin
 - **License**: Apache-2.0
 - **GitHub Repository**: [`libgdx/libgdx`](https://github.com/libgdx/libgdx)
 - **Overview**: A battle-tested cross-platform Java game development framework. Powers landmark indie hits like *Slay the Spire* and *Mindustry*. Provides unified OpenGL bindings, physics wrappers (Box2D, Bullet), audio, and input handling across Windows, Linux, macOS, Android, iOS, and WebAssembly.
 
-### 5. [PlayCanvas Engine](https://github.com/playcanvas/engine) [![GitHub stars](https://img.shields.io/github/stars/playcanvas/engine?style=social&color=white)](https://github.com/playcanvas/engine/stargazers)
+### 5. [PlayCanvas Engine](https://github.com/playcanvas/engine) [![GitHub_Stars](https://img.shields.io/github/stars/playcanvas/engine?style=social&color=white)](https://github.com/playcanvas/engine/stargazers)
 - **Primary Languages**: JavaScript, TypeScript
 - **License**: MIT
 - **GitHub Repository**: [`playcanvas/engine`](https://github.com/playcanvas/engine)
 - **Overview**: The open-source lightweight 3D WebGL and WebGPU engine powering the PlayCanvas platform. Features physically based rendering (PBR), glTF 2.0 asset pipelines, 3D spatial audio, and Ammo.js/Wasm rigid-body physics, all optimized for high-FPS browser games without plugins.
 
-### 6. [Cocos Engine](https://github.com/cocos/cocos-engine) [![GitHub stars](https://img.shields.io/github/stars/cocos/cocos-engine?style=social&color=white)](https://github.com/cocos/cocos-engine/stargazers)
+### 6. [Cocos Engine](https://github.com/cocos/cocos-engine) [![GitHub_Stars](https://img.shields.io/github/stars/cocos/cocos-engine?style=social&color=white)](https://github.com/cocos/cocos-engine/stargazers)
 - **Primary Languages**: TypeScript, C++
 - **License**: MIT
 - **GitHub Repository**: [`cocos/cocos-engine`](https://github.com/cocos/cocos-engine)
 - **Overview**: The open-source runtime and framework foundation of Cocos Creator. Heavily optimized for high-performance 2D and 3D games across mobile (iOS/Android), desktop, and instant web/mini-game ecosystems (WeChat Mini Games, TikTok, Facebook Instant Games).
 
-### 7. [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) [![GitHub stars](https://img.shields.io/github/stars/o3de/o3de?style=social&color=white)](https://github.com/o3de/o3de/stargazers)
+### 7. [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) [![GitHub_Stars](https://img.shields.io/github/stars/o3de/o3de?style=social&color=white)](https://github.com/o3de/o3de/stargazers)
 - **Primary Languages**: C++, Python
 - **License**: Apache-2.0 / MIT
 - **GitHub Repository**: [`o3de/o3de`](https://github.com/o3de/o3de)
 - **Overview**: An open-source, modular, real-time 3D engine governed by the Linux Foundation (originated from Amazon Lumberyard and CryEngine). Features the Atom multi-threaded physically based renderer, extensible "Gems" architecture, Python automation, and PhysX simulation.
 
-### 8. [Stride](https://github.com/stride3d/stride) [![GitHub stars](https://img.shields.io/github/stars/stride3d/stride?style=social&color=white)](https://github.com/stride3d/stride/stargazers)
+### 8. [Stride](https://github.com/stride3d/stride) [![GitHub_Stars](https://img.shields.io/github/stars/stride3d/stride?style=social&color=white)](https://github.com/stride3d/stride/stargazers)
 - **Primary Languages**: C#, .NET
 - **License**: MIT
 - **GitHub Repository**: [`stride3d/stride`](https://github.com/stride3d/stride)
 - **Overview**: Formerly known as Xenko, Stride is a full-featured open-source 2D/3D C# game engine. Features a complete visual scene editor, modern PBR graphics pipeline, full .NET 8/9 C# scripting with Roslyn compilers, and VR/XR support—positioning it as the premier open-source C# alternative to Unity.
 
-### 9. [Wicked Engine](https://github.com/turanszkij/WickedEngine) [![GitHub stars](https://img.shields.io/github/stars/turanszkij/WickedEngine?style=social&color=white)](https://github.com/turanszkij/WickedEngine/stargazers)
+### 9. [Wicked Engine](https://github.com/turanszkij/WickedEngine) [![GitHub_Stars](https://img.shields.io/github/stars/turanszkij/WickedEngine?style=social&color=white)](https://github.com/turanszkij/WickedEngine/stargazers)
 - **Primary Languages**: C++
 - **License**: MIT
 - **GitHub Repository**: [`turanszkij/WickedEngine`](https://github.com/turanszkij/WickedEngine)
 - **Overview**: An advanced open-source C++ game engine emphasizing cutting-edge modern graphics programming. Features DirectX 12 and Vulkan backends, hardware ray tracing, path tracing, atmospheric scattering, mesh shaders, and Lua scripting.
 
-### 10. [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) [![GitHub stars](https://img.shields.io/github/stars/FlaxEngine/FlaxEngine?style=social&color=white)](https://github.com/FlaxEngine/FlaxEngine/stargazers)
+### 10. [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) [![GitHub_Stars](https://img.shields.io/github/stars/FlaxEngine/FlaxEngine?style=social&color=white)](https://github.com/FlaxEngine/FlaxEngine/stargazers)
 - **Primary Languages**: C++, C#
 - **License**: Source-Available / Custom EULA *(Free up to $250k revenue; 4% royalty thereafter)*
 - **GitHub Repository**: [`FlaxEngine/FlaxEngine`](https://github.com/FlaxEngine/FlaxEngine)
 - **Overview**: A lightweight 64-bit game engine offering high-fidelity 3D graphics, a visual editor, C# and C++ scripting, and Vulkan/DirectX 12 render pipelines. Positioned for developers seeking Unity-like workflows combined with Unreal-like lightweight native code generation.
 
-### 11. [Defold](https://github.com/defold/defold) [![GitHub stars](https://img.shields.io/github/stars/defold/defold?style=social&color=white)](https://github.com/defold/defold/stargazers)
+### 11. [Defold](https://github.com/defold/defold) [![GitHub_Stars](https://img.shields.io/github/stars/defold/defold?style=social&color=white)](https://github.com/defold/defold/stargazers)
 - **Primary Languages**: C++, Lua
 - **License**: Defold License *(Permissive source-available, completely free with no royalties)*
 - **GitHub Repository**: [`defold/defold`](https://github.com/defold/defold)
 - **Overview**: Originally developed by King (creators of *Candy Crush*), Defold is a turn-key cross-platform 2D and lightweight 3D engine. It compiles tiny binary footprints (sub-5MB), features blazing-fast cold compile times, Lua scripting, and rock-solid mobile/web/console publishing.
 
-### 12. [Panda3D](https://github.com/panda3d/panda3d) [![GitHub stars](https://img.shields.io/github/stars/panda3d/panda3d?style=social&color=white)](https://github.com/panda3d/panda3d/stargazers)
+### 12. [Panda3D](https://github.com/panda3d/panda3d) [![GitHub_Stars](https://img.shields.io/github/stars/panda3d/panda3d?style=social&color=white)](https://github.com/panda3d/panda3d/stargazers)
 - **Primary Languages**: C++, Python
 - **License**: Modified BSD
 - **GitHub Repository**: [`panda3d/panda3d`](https://github.com/panda3d/panda3d)
 - **Overview**: A mature, battle-hardened open-source framework for 3D rendering and games developed jointly by Disney and Carnegie Mellon University. Features Python bindings over a high-performance C++ core, used widely for university robotics simulations, VR labs, and commercial MMORPGs like *Toontown Online*.
 
-### 13. [Stencyl Engine](https://github.com/Stencyl/stencyl-engine) [![GitHub stars](https://img.shields.io/github/stars/Stencyl/stencyl-engine?style=social&color=white)](https://github.com/Stencyl/stencyl-engine/stargazers)
+### 13. [Stencyl Engine](https://github.com/Stencyl/stencyl-engine) [![GitHub_Stars](https://img.shields.io/github/stars/Stencyl/stencyl-engine?style=social&color=white)](https://github.com/Stencyl/stencyl-engine/stargazers)
 - **Primary Languages**: Haxe
 - **License**: MIT
 - **GitHub Repository**: [`Stencyl/stencyl-engine`](https://github.com/Stencyl/stencyl-engine)
@@ -209,8 +209,8 @@ We welcome community pull requests, engine additions, and factual benchmark upda
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-engine-profile`).
-3. 📝 **Add or update entries** in `README.md` following established table formatting, specific pricing figures, and verified star badges.
-4. 🔗 **Ensure all star badges** link to `https://github.com/<owner>/<repo>/stargazers`.
+3. 📝 **Add or update entries** in `README.md` following established table formatting, specific pricing figures, and verified Stars_Badges.
+4. 🔗 **Ensure all Stars_Badges** link to `https://github.com/<owner>/<repo>/stargazers`.
 5. 🚀 **Submit a Pull Request** with a succinct description of your changes.
 
 ---
