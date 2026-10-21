@@ -30,7 +30,7 @@ Whether you are architecting a photorealistic AAA world, launching a viral cross
 - [📊 Architectural & Feature Comparison Matrix](#-architectural--feature-comparison-matrix)
 - [💡 Decision Guide: Selecting Your Game Engine in 2026](#-decision-guide-selecting-your-game-engine-in-2026)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [💖 Support & Community](#-support--community)
+- [💖 Support](#-support)
 - [##  Star History](#--star-history)
 - [⚖️ Disclaimer & License](#️-disclaimer--license)
 
@@ -215,18 +215,18 @@ We welcome community pull requests, engine additions, and factual benchmark upda
 
 ---
 
-## 💖 Support & Community
+## 💖 Support
 
-If you find this curated directory valuable for your gamedev research, studio evaluations, or hobby projects:
+A huge thank you to all contributors, developers, and open-source maintainers who make the modern game engine ecosystem vibrant and accessible!
 
-* ⭐ **Star this repository** to improve visibility across the developer community.
-* 🍴 **Fork and share** with fellow indie developers, universities, and game jam teams.
-* 💬 **Join our Discord** to chat about engine tech, architecture, and optimizations:
-
-<p align="center">
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsor"/></a>
-</p>
+If you find this curated directory helpful for your projects, research, or team stack selection, please consider supporting the project:
+* ⭐ **Star this repository** to show appreciation and help others discover it.
+* 🍴 **Fork and share** with your network, team, and developer communities.
+* ☕ **Buy me a coffee / sponsor the project** on GitHub to support continuous updates and open-source research:
+  
+  [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+  
+  👉 **[Visit Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)**
 
 ---
 
